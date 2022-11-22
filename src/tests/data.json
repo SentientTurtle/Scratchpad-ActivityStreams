@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://EXAMPLE_ID.INVALID",
+  "type": "Note",
+  "summary": null,
+  "published": "1970-01-01T00:00:00Z",
+  "url": "https://EXAMPLE_URL.INVALID",
+  "content": "Hello World!",
+  "contentMap": {
+    "en": "Hello World!"
+  }
+}
